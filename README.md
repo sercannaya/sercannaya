@@ -15,15 +15,15 @@
 <!-- Stats:START -->
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sercannaya&theme=algolia" alt="sercannaya"  /></p>
-<p>
-  <a align= "center" href="https://github.com/sercannaya">
-    <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=sercannaya&theme=cobalt&show_icons=true&count_private=true" />
+<p  align="center">
+  <a href="https://github.com/sercannaya">
+    <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=sercannaya&theme=cobalt&show_icons=true&count_private=true" />
   </a>
 </p>
 <!-- Stats:END -->
-
-<!-- Connect with Me:START -->
 <br>
+<!-- Connect with Me:START -->
+
 ## 🤙🏻 &nbsp;Connect with Me 
 <p align="center">
 <br>
@@ -39,10 +39,6 @@
 ## 📺 Some Videos From My YouTube Channel
 <table align="center">
   <tbody>
-    <tr><td><a href="https://youtu.be/hf_k-A1CqzQ"><img width="140px" src="https://i.ytimg.com/vi/hf_k-A1CqzQ/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/hf_k-A1CqzQ">Making Your Own Basic Spotify Playlist Cover</a><br/>20 Aug 2021</td></tr>
-    <tr><td><a href="https://youtu.be/2CQCjTNxab4"><img width="140px" src="https://i.ytimg.com/vi/2CQCjTNxab4/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/2CQCjTNxab4">Turtle Graphics with Python</a><br/>21 Jun 2021</td></tr>
     <tr><td><a href="https://youtu.be/Jt3hvpU0YvI"><img width="140px" src="https://i.ytimg.com/vi/Jt3hvpU0YvI/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/Jt3hvpU0YvI">Responsive Image Gallery with Lightbox | HTML and Bootstrap 4</a><br/>28 Apr 2021</td></tr>
     <tr><td><a href="https://youtu.be/aBL3HUtt_mY"><img width="140px" src="https://i.ytimg.com/vi/aBL3HUtt_mY/mqdefault.jpg"></a></td>
