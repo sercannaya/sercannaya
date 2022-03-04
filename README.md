@@ -12,11 +12,29 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sercannaya&label=Profile%20views&color=0e75b6&style=plastic" alt="sercannaya" /> </p>
 
+<!-- Stats:START -->
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sercannaya&theme=algolia" alt="sercannaya"  /></p>
+<p>
+  <a align= "center" href="https://github.com/sercannaya">
+    <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=sercannaya&theme=cobalt&show_icons=true&count_private=true" />
+  </a>
+</p>
+<!-- Stats:END -->
 
+<!-- Connect with Me:START -->
 <br>
-
+## 🤙🏻 &nbsp;Connect with Me 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/sercan-naya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/sercannaya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="mailto:sercannayaa@gmail.com?subject=Hello%20There!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.sercannaya.com/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F">
+</p>
+<br>
+<!-- Connect with Me:END -->
+  
 <!-- YOUTUBE:START -->
 ## 📺 Some Videos From My YouTube Channel
 <table align="center">
