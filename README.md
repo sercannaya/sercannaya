@@ -9,8 +9,6 @@
 </p>
 <hr/>
 <h4 align="center">I create websites sometimes.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sercannaya&label=Profile%20views&color=0e75b6&style=plastic" alt="sercannaya" /> </p>
 
 <!-- Stats:START -->
 ## 🔥 Streak Stats
