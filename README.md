@@ -5,7 +5,7 @@
 <h1 align="center">Hello There, I'm Sercan NAYA</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%23F70000&size=25&center=true&vCenter=true&lines=Full+Stack+Developer;Freelancer;BS+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%23F70000&size=25&center=true&vCenter=true&lines=Full+Stack+Developer;Freelancer">
 </p>
 <hr/>
 <h4 align="center">I create websites sometimes.</h4>
