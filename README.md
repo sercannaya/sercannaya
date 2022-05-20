@@ -1,6 +1,6 @@
 
 <p align="center">
-<img align-item="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="50%" height="50%" class="giphy-embed">
+<img align-item="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%" height="100%" class="giphy-embed">
 <p>
 <h1 align="center">Hello There, I'm Sercan NAYA</h1> 
 
@@ -13,11 +13,6 @@
 <!-- Stats:START -->
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sercannaya&theme=algolia" alt="sercannaya"  /></p>
-<p  align="center">
-  <a href="https://github.com/sercannaya">
-    <img alt= "stats card" src="https://github-readme-stats.vercel.app/api?username=sercannaya&theme=cobalt&show_icons=true&count_private=true" />
-  </a>
-</p>
 <!-- Stats:END -->
 <br>
 <!-- Connect with Me:START -->
