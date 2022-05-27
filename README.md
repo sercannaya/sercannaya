@@ -10,10 +10,6 @@
 <hr/>
 <h4 align="center">I create websites sometimes.</h4>
 
-<!-- Stats:START -->
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sercannaya&theme=algolia" alt="sercannaya"  /></p>
-<!-- Stats:END -->
 <br>
 <!-- Connect with Me:START -->
 
@@ -27,9 +23,18 @@
 </p>
 <br>
 <!-- Connect with Me:END -->
+
+<!-- Stats:START -->
+<details>
+  <summary><b>GitHub Stats</b></summary> 
+  <br>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sercannaya&theme=algolia" alt="sercannaya"  /></p>
+    <p></p>
+</details>
+<!-- Stats:END -->
   
 <!-- YOUTUBE:START -->
-## 📺 Some Videos From My YouTube Channel
+<!-- ## 📺 Some Videos From My YouTube Channel
 <table align="center">
   <tbody>
     <tr><td><a href="https://youtu.be/Jt3hvpU0YvI"><img width="140px" src="https://i.ytimg.com/vi/Jt3hvpU0YvI/mqdefault.jpg"></a></td>
@@ -39,5 +44,5 @@
     <tr><td><a href="https://youtu.be/ZAHOLdKYJCI"><img width="140px" src="https://i.ytimg.com/vi/ZAHOLdKYJCI/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/ZAHOLdKYJCI">Draggable List or Drag & Drop List | HTML CSS JavaScript</a><br/>28 Nov 2020</td></tr>
   </tbody>
-</table>
+</table> -->
 <!-- YOUTUBE:END -->
