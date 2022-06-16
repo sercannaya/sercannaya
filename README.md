@@ -13,7 +13,7 @@
 <br>
 <!-- Connect with Me:START -->
 
-## 🤙🏻 &nbsp;Connect with Me 
+## &nbsp;Connect with Me 
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/sercan-naya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
