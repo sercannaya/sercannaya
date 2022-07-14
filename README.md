@@ -1,4 +1,3 @@
-
 <p align="center">
 <img align-item="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="100%" height="100%" class="giphy-embed">
 <p>
